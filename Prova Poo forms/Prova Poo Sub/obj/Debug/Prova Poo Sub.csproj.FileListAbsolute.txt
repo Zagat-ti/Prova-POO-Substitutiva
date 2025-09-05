@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\obj\Debug\Prova Poo Sub.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\obj\Debug\Prova Poo Sub.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\obj\Debug\Prova_Poo_Sub.Form1.resources
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\obj\Debug\Prova_Poo_Sub.Properties.Resources.resources
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\obj\Debug\Prova Poo Sub.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\obj\Debug\Prova Poo Sub.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\bin\Debug\Prova Poo Sub.exe.config
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\bin\Debug\Prova Poo Sub.exe
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\bin\Debug\Prova Poo Sub.pdb
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\obj\Debug\Prova Poo Sub.exe
+C:\Users\Aluno\Desktop\prova POO sub\Prova Poo Sub\Prova Poo Sub\obj\Debug\Prova Poo Sub.pdb
