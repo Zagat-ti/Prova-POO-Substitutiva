@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\bin\Debug\net7.0\Prova POO console.exe
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\bin\Debug\net7.0\Prova POO console.deps.json
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\bin\Debug\net7.0\Prova POO console.runtimeconfig.json
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\bin\Debug\net7.0\Prova POO console.dll
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\bin\Debug\net7.0\Prova POO console.pdb
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\Prova POO console.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\Prova POO console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\Prova POO console.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\Prova POO console.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\Prova POO console.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\Prova POO console.dll
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\refint\Prova POO console.dll
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\Prova POO console.pdb
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\Prova POO console.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\prova POO sub\Prova POO console\Prova POO console\obj\Debug\net7.0\ref\Prova POO console.dll
